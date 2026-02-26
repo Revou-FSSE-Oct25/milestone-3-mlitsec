@@ -38,10 +38,6 @@ npm run test:coverage
 - Username: `mor_2314`
 - Password: `83r5^_`
 
-## Links
-- Deploy: `isi link deploy`
-- Repository: `isi link github`
-
 ## Screenshots / Demo
 - Home
 - Product Detail
