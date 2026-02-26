@@ -1,0 +1,18 @@
+[
+  {
+    "id": 1001,
+    "title": "Revo Tote Bag",
+    "price": 12.5,
+    "description": "Tas kain serbaguna untuk kuliah dan kerja.",
+    "category": "fashion",
+    "image": "https://fakestoreapi.com/img/71li-ujtlUL._AC_UX679_.jpg"
+  },
+  {
+    "id": 1002,
+    "title": "Revo Desk Organizer",
+    "price": 18,
+    "description": "Organizer meja untuk menjaga workspace tetap rapi.",
+    "category": "home",
+    "image": "https://fakestoreapi.com/img/81fPKd-2AYL._AC_SL1500_.jpg"
+  }
+]
